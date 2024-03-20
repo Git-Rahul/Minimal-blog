@@ -1,5 +1,5 @@
 import "./App.css";
-import cactus from "./assets/cactus_img.jpg";
+import cactus from "./cactus_img.jpg";
 function App() {
   return (
     <>
